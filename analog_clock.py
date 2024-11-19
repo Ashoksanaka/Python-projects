@@ -1,4 +1,3 @@
-https://drive.google.com/file/d/19L7dz3wj46qpXJfXEmk3TAaDI25xm7dY/view?usp=drivesdk
 #in this tutorial we will create analogue clock using python
 #import clock face from turtle graphics module
 import turtle
